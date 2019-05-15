@@ -1,0 +1,10 @@
+.rectangle {
+background-color: red;
+width: 100px;
+border: 1px solid black;
+height: 5px;
+margin:50px auto;
+}
+.button {
+  text-align: center;
+}
